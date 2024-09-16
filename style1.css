@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 80%;
+  height: 700vh;
+  background-color: #333;
+  color: white;
+  text-align: center;
+}
+main {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: aqua;
+}
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+html{
+  font-size: 65.5%;
+}
+.larger {
+  font-size: 2rem;
+}
+.largerr{
+  font-size:3rem ;
+}
+.largerrr{
+  font-size:4rem ;
+}
+.largerrrr{
+  font-size:5rem ;
+}
+.largerrrrr{
+  font-size:6rem ;
+}
